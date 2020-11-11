@@ -3,5 +3,6 @@ nav:
   - Home: index.md
   - Batching & Scheduling: batching/index.md
   - Testing: testing/index.md
+  - ORM: orm/index.md
 
 theme: readthedocs

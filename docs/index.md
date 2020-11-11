@@ -18,3 +18,4 @@ A set of notes on testing in springboot.
 # Additional Libraries and Frameworks
 * [Mapstruct Reference](https://mapstruct.org/documentation/stable/reference/html/) - The official Mapstruct refernce. Mapstruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach.
 * [Swagger Core API Annotations](https://github.com/swagger-api/swagger-core/wiki/Annotations) - A quick reference to the Swagger Core API annotations.
+* [ORM](./orm/index.md) - A collection of notes on Object Relational Mapping tools for springboot.

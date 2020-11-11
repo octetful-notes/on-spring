@@ -14,3 +14,6 @@ A set of notes on scheduling and batching jobs on Springboot.
 
 # [Testing](./testing/index.md)
 A set of notes on testing in springboot.
+
+# Additional Libraries and Frameworks
+* [Mapstruct Reference](https://mapstruct.org/documentation/stable/reference/html/) - The official Mapstruct refernce. Mapstruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach.

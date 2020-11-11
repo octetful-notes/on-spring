@@ -1,0 +1,7 @@
+site_name: Octetful Notes - Springboot
+nav:
+  - Home: index.md
+  - Batching & Scheduling: batching/index.md
+  - Testing: testing/index.md
+
+theme: readthedocs

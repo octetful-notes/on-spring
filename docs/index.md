@@ -9,6 +9,14 @@ A curated collection of notes on Springboot
 * [Spring Cloudstream - Official](https://docs.spring.io/spring-cloud-stream/docs/3.0.8.RELEASE/reference/html/spring-cloud-stream.html#spring-cloud-stream-overview-introducing) - The official spring cloudstream documentation.
 * [POST Response and Location Headers](https://stackoverflow.com/questions/42546141/add-location-header-to-spring-mvcs-post-response) - A stackoverflow post with sample code on how to handle post response and location headers.
 
+---
+
+[__Response Entity__](https://www.baeldung.com/spring-response-entity)
+
+A Baeldung article on response entities, Springboot inbuilt object that helps you create and send out responses without defining POJO DTO or entity classes.
+
+---
+
 # [Batching & Scheduling](./batching/index.md)
 A set of notes on scheduling and batching jobs on Springboot.
 
